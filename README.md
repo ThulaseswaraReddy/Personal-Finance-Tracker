@@ -21,4 +21,5 @@ It is designed to make personal money management simple and clear.
   ⭐Clean OOP design principles
   ⭐User input handling and validation
   ⭐Financial data analysis basics
+  
 ---
