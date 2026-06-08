@@ -14,9 +14,11 @@ It is designed to make personal money management simple and clear.
 - Simple menu-based navigation  
 ---
 
+---
 ## Key Learnings
   ⭐Real-world application development in Python
   ⭐Data persistence using JSON
   ⭐Clean OOP design principles
   ⭐User input handling and validation
   ⭐Financial data analysis basics
+---
