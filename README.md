@@ -1,5 +1,6 @@
 ## 💰 Personal Finance Tracker
 A simple and user-friendly Personal Finance Tracker built to help users manage income, expenses, and overall financial balance in an organized way.
+
 ## 📖 About the Project
 The Personal Finance Tracker allows users to record daily financial transactions, categorize expenses, and view a complete summary of their financial status anytime.
 It is designed to make personal money management simple and clear.
